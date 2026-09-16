@@ -1,4 +1,4 @@
-# TP: Chat Básico Cliente-Servidor con Sockets y Base de Datos
+# PFO1 - Programacion sobre Redes: Chat Básico Cliente-Servidor con Sockets y Base de Datos
 
 Implementación de un chat simple cliente-servidor en Python usando sockets TCP/IP, con persistencia de los mensajes en una base de datos SQLite.
 
